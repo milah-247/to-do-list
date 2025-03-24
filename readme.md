@@ -1,1 +1,3 @@
-HELLO I'M KOKOg
+HELLO I'M KOKO
+im love snacks
+and banana
