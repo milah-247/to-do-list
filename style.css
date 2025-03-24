@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: o;
+  background-color: black;
+}
+.container {
+  padding: 10px;
+}
+
+h1 {
+  font-style: normal;
+  color: white;
+  justify-content: center;
+  text-align: center;
+}
+#todoinput {
+  background-color: white;
+  margin: 50px;
+  border-radius: 10px;
+  width: 300px;
+  padding: 10px;
+  text-align: center;
+}
+#addinput {
+  background-color: blue;
+  padding: 10px;
+}
+li {
+  border: 1px white solid;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  list-style: none;
+  color: white;
+}
+li button {
+  color: red;
+
+  /* margin-left: 500px; */
+  border: none;
+  margin: 10px;
+  background-color: black;
+  /* margin-right: 100px; */
+  /* padding-right: 200px; */
+}
+h2 {
+  font-style: normal;
+  color: white;
+  justify-content: center;
+  text-align: center;
+  margin-top: 0px;
+}
+/* p {
+  font: xx-large bolder;
+  color: white;
+  text-align: center;
+  
+} */
